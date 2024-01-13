@@ -1,3 +1,0 @@
-C:/Users/james/OneDrive/Área de Trabalho/ProjetoOrdenacaoED/cmake-build-debug/CMakeFiles/ProjetoOrdenacaoED.dir
-C:/Users/james/OneDrive/Área de Trabalho/ProjetoOrdenacaoED/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/james/OneDrive/Área de Trabalho/ProjetoOrdenacaoED/cmake-build-debug/CMakeFiles/rebuild_cache.dir
